@@ -15,6 +15,16 @@ Built by Mohammad Mamunor Rashid Tonmoy · github.com/tonCodesData
 - Exporting the measurement schedule and cleaning it in Excel
 - Pricing the quantities (area × rate) into a costed take-off
 
+## The take-off in Revu
+
+Floor areas measured directly on the calibrated drawing:
+
+![Measured room areas on the floor plan in Bluebeam Revu](screenshots/revu-drawing.png)
+
+Each measurement captured in the Markups List, ready to export:
+
+![Bluebeam Markups List showing the area measurements](screenshots/markups-list.png)
+
 ## Method
 
 1. Opened a 1:50 architectural floor plan (publicly available practice drawing) in Bluebeam Revu.
@@ -36,6 +46,10 @@ Built by Mohammad Mamunor Rashid Tonmoy · github.com/tonCodesData
 | **Total** | **66.68** | | **3,000.60** |
 
 *Rate is illustrative, for demonstration of the pricing workflow.*
+
+The priced schedule built from the export:
+
+![Priced take-off schedule in Excel](screenshots/excel-schedule.png)
 
 ## Files
 
